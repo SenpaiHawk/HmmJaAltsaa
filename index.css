@@ -11,6 +11,26 @@
 
 .p5box {
   text-align: center;
-  padding: 100px;
+  padding: 30px;
 
+}
+
+.center {
+  text-align: center;
+}
+
+.cuteBox {
+  border-radius: 10px;
+  border-color: black;
+  border-style: ridge;
+  border-width: medium;
+
+}
+
+
+
+body {
+  background-image: url('wallpaper.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
