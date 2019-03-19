@@ -27,7 +27,9 @@
 
 }
 
-
+.comicSans {
+  font-family: "Comic Sans MS", sans-serif;
+}
 
 body {
   background-image: url('wallpaper.jpg');
